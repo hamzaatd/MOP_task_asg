@@ -1,0 +1,10 @@
+com/example/MOP_task_asg/OFFline/Giphy_data_base_Impl.java
+ com.example.MOP_task_asg.OFFline.Giphy_data_base_Impl
+ com.example.MOP_task_asg.OFFline.Giphy_data_base_Impl$1
+com/example/MOP_task_asg/BuildConfig.java
+ com.example.MOP_task_asg.BuildConfig
+com/example/MOP_task_asg/OFFline/Gif_dao_Impl.java
+ com.example.MOP_task_asg.OFFline.Gif_dao_Impl
+ com.example.MOP_task_asg.OFFline.Gif_dao_Impl$1
+ com.example.MOP_task_asg.OFFline.Gif_dao_Impl$2
+ com.example.MOP_task_asg.OFFline.Gif_dao_Impl$3
